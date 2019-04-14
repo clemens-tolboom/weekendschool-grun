@@ -1,7 +1,5 @@
 # weekendschool-grun
 
-- Clemens
-
 ## Sites
 
 - https://www.ouders.nl/
