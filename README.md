@@ -3,8 +3,7 @@
 ## Werk
 
 - https://www.ouders.nl/
-- http://www.climatetechwiki.org/
-- https://www.smartcities-infosystem.eu/
+- https://www.smartcities-infosystem.eu/scis-kpis
 
 ## Recreatie / leren
 
