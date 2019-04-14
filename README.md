@@ -1,9 +1,10 @@
 # weekendschool-grun
 
-## Sites
+## Werk
 
 - https://www.ouders.nl/
 - http://www.climatetechwiki.org/
+- https://www.smartcities-infosystem.eu/
 
 ## Recreatie / leren
 
